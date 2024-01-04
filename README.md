@@ -1,1 +1,1 @@
-[site] (https://keerthanaaruna.github.io/price-landing-page/)
+[site](https://keerthanaaruna.github.io/price-landing-page/)
